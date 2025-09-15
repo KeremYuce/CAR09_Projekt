@@ -12,7 +12,6 @@ Kurze Beschreibung deines Projekts (1–2 Sätze).
 | **Konzept B** | ✅ schnell | ❌ komplexere programierung nötig |
 | **Konzept C** | ✅ schneller <br> | ❌ komplexere programierung nötig |
 
-> 💡 Tipp: Nutze `✅` und `❌`, damit es auf GitHub übersichtlich und schnell lesbar ist.
 
 ---
 
@@ -21,6 +20,4 @@ Kurze Beschreibung deines Projekts (1–2 Sätze).
 
 
 ## 📝 Fazit
-
-Welches Konzept wählst du und warum?  
-Kurze Begründung hier einfügen.
+Gewählt wurde Konzept C da diese im Gegensatz zu Konzept B einen IR-Sensor benutzt und viel schneller messungen tätigen kann als ein Ultraschallsensor.
