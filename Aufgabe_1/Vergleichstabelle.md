@@ -8,9 +8,9 @@ Kurze Beschreibung deines Projekts (1–2 Sätze).
 
 | Konzept | Vorteile | Nachteile |
 |--------|----------|-----------|
-| **Konzept A** | ✅ Vorteil 1 <br> ✅ Vorteil 2 | ❌ Nachteil 1 <br> ❌ Nachteil 2 |
-| **Konzept B** | ✅ Vorteil 1 | ❌ Nachteil 1 |
-| **Konzept C** | ✅ Vorteil 1 <br> ✅ Vorteil 2 <br> ✅ Vorteil 3 | ❌ Nachteil 1 |
+| **Konzept A** | ✅ garantierte funktion <br> ✅ wenig hardware | ❌ zu langsam <br> |
+| **Konzept B** | ✅ schnell | ❌ komplexere programierung nötig |
+| **Konzept C** | ✅ schneller <br> | ❌ komplexere programierung nötig |
 
 > 💡 Tipp: Nutze `✅` und `❌`, damit es auf GitHub übersichtlich und schnell lesbar ist.
 
