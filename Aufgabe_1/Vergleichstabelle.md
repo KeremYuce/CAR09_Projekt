@@ -19,5 +19,12 @@ Kurze Beschreibung deines Projekts (1–2 Sätze).
 | **Konzepte** | ![Konzepte](images/LAYOUTS.png) |
 
 
+## ✅ Arbeitspakete
+- [ ] **Konzept Auswahl**
+- [ ] **Sensor Positionirung**
+- [ ] **Sensor Kalibrierung**
+- [ ] **Sensor Programierung**
+- [ ] **Sensor Test**
+
 ## 📝 Fazit
 Gewählt wurde Konzept C da diese im Gegensatz zu Konzept B einen IR-Sensor benutzt und viel schneller messungen tätigen kann als ein Ultraschallsensor.
