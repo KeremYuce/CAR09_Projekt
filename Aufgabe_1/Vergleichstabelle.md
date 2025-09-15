@@ -16,7 +16,7 @@ Kurze Beschreibung deines Projekts (1–2 Sätze).
 ---
 
 ## 🖼️ Skizzen & Screenshots
-| **Konzepte** | ![Konzepte](images/LAYOUT.png) |
+| **Konzepte** | ![Konzepte](images/LAYOUTS.png) |
 
 
 ## 📝 Fazit
