@@ -1,7 +1,4 @@
-# 📌 Projektname
-
-Kurze Beschreibung deines Projekts (1–2 Sätze).
-
+# 📌 Vergleichstabelle
 ---
 
 ## 📊 Konzeptvergleich
